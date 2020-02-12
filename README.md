@@ -1,5 +1,5 @@
-# Machine_learning_group_project
+# Machine learning project
 
-Group project for machin learning course at nmsu:
+Group project for machine learning course at nmsu:
 
 goal: to produce a reliable model to classify authentic/fake brand sneakers
