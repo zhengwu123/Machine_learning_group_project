@@ -1,0 +1,20 @@
+Project report stage 2
+
+Our project focus on image recognition, we aimed to use our machine-learning knowledge we learned 
+from class to design an algorithm to classify authentic or fake brand sneakers (Nike, Adidas).
+
+There are plenty of app doing this job. Such as StockX, SNKRS, Goat, etc. All of them are using 
+a primitive approach. Sneakers are shipped to their authenticators and viewed by them manually, 
+which is very time consuming and ineffective. So, we come up with this idea to automate this process. 
+It has both business and research value.
+
+This is not an easy task. We have many challenges. As we know existing classifiers such as: cat or dog, 
+is this a hot dog? are primitive and easy to implement. Because of the difference between dog and cats are huge. 
+And hotdogs are easy to spot too. But the difference between real or fake sneakers is subtle. 
+It’s so subtle that even some experienced authenticators need to spend a lot of time to truly separate them and 
+sometimes they fail to do so. This task is exciting and challenging.
+
+We are going to collect at least hundreds of photos (maybe thousands of photos at the end of the semester). 
+Train our model and to classify them. We feed our model with both fake and authentic sneaker's photos.
+Seven photos for each pair of sneakers. We don’t know if we can achieve high accuracy at this point, 
+as the project continues, we will see!
