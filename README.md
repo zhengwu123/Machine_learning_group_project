@@ -6,7 +6,7 @@ goal: to produce a reliable model to classify different photos of sneakers
 
 - [x] used Keras CNN to train image sets
 
-- [x] predict different labels for sneakers.
+- [x] different labels classification for sneakers.
 
 - [x] train real/fake sneakers [accuracy 0.91].
 
