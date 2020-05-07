@@ -4,9 +4,9 @@ Group project for machine learning course at nmsu:
 
 goal: to produce a reliable model to classify different photos of sneakers
 
-[]used knn Keras CNN to train our 7 image sets
+[x]used knn Keras CNN to train our 7 image sets
 
-[] predict 7 different labels for sneakers.
+[x] predict 7 different labels for sneakers.
 
-[] predict real/fake sneakers.
-[] use image augmentation.
+[x] predict real/fake sneakers.
+[x] use image augmentation.
