@@ -9,4 +9,5 @@ goal: to produce a reliable model to classify different photos of sneakers
 [x] predict 7 different labels for sneakers.
 
 [x] predict real/fake sneakers.
+
 [x] use image augmentation.
