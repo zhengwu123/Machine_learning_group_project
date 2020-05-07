@@ -12,4 +12,4 @@ goal: to produce a reliable model to classify different photos of sneakers
 
 - [x] predict real/fake sneakers[accuracy 0.77].
 
-- [x] use image augmentation.
+- [x] applied keras on the fly image augmentation.
