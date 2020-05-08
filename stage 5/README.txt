@@ -7,6 +7,10 @@ follow the steps to run the colab ipynb files on Google colab.
 
 2.dataset used:
 
-https://drive.google.com/file/d/1wVk2N9WqGDpgI2xHUfWnc-POMPxArJd6/view?usp=sharing
+https://drive.google.com/file/d/1wVk2N9WqGDpgI2xHUfWnc-POMPxArJd6/view?usp=sharing.
+
+3. Test data in the dataset zip file
+
+
 
 
