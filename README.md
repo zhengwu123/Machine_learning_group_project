@@ -1,12 +1,12 @@
 # Machine learning project
 
-# Group project for machine learning course at nmsu:
+Group project for machine learning course at nmsu:
 
-# goal: 
+Goal: 
 
-1. produce a reliable model to classify different photos of sneakers
+-  1. produce a reliable model to classify different photos of sneakers
 
-2. produce a reliable model predict fake/real sneakers
+-  2. produce a reliable model predict fake/real sneakers
 
 
 - [x] used Keras CNN to train image sets
