@@ -7,7 +7,7 @@ Goal:
 -  1. produce a reliable model to classify different photos of sneakers
 
 -  2. produce a reliable model predict fake/real sneakers
-![](dataset/example1.PNG)
+![](dataset/example1.png)
 
 
 - [x] used Keras CNN to train image sets
